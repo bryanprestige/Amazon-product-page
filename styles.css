@@ -1,0 +1,66 @@
+body {
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 900px;
+}
+
+.books {
+    color: #565959;
+    margin-top: 25px
+}
+
+.title {
+    font-weight: lighter;
+    width: 500px;
+    text-align:left;
+    margin-left: 10px;
+}
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+    height: 500px;
+    margin-right: 20px;
+}
+
+.amazon {
+    display: flex;
+    justify-content: flex-start;
+    
+}
+
+.block {
+    display: block;
+}
+
+.author {
+    color: #007185;
+}
+
+.author-title {
+    font-size: 17px;
+    margin-bottom: 4px;
+}
+h1 {
+    margin-bottom: 4px;
+}
+.border {
+    padding: 10px;
+    border: 2px solid black;
+}
+
+.stars {
+    height: 20px;
+    margin-top: 0px;
+    margin-left: 10px;
+}
+
+.resume-title {
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 4px;
+}
+
+.resume {
+    color: black;
+     font-size: 16px 
+}
